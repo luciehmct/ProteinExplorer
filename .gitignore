@@ -1,2 +1,3 @@
 backend/data/pdb_data_seq.csv
 __pycache__/
+frontend/.env
