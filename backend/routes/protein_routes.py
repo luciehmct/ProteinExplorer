@@ -25,3 +25,8 @@ def get_protein_analysis(
     
     analysis = analyze_protein(protein_data, detail_level, language)
     return {"protein": protein_data, "analysis": analysis}
+
+@router.get("/protein/{structure_id}")
+def get_protein(structure_id: str):
+    """Get protein data by structure ID"""
+    return get_protein_info(structure_id)
