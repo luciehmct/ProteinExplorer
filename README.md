@@ -1,4 +1,4 @@
-# Protein Data Analysis with CoPilot API  
+# Protein Data Analysis with OpenAI API  
 
 This project utilizes the **Protein Data Set** from Kaggle to analyze protein sequences and structures. It uses the **OpenAI API** to enhance data processing and insights extraction.  
 
