@@ -27,3 +27,9 @@ To start the frontend:
 ```bash
 npm start
 ```
+
+## Future Steps  
+
+- **Improve Frontend** – Enhance UI/UX for better data visualization and interaction.  
+- **Add Clustering Model** – Implement clustering to group similar proteins based on sequence similarity.  
+- **Expand API Functionality** – Integrate additional endpoints for protein structure prediction and feature extraction.  
